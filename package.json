@@ -1,0 +1,28 @@
+{
+  "name": "sudokujs",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Sudoku as JS library to be imported in projects",
+  "author": "Guilherme Mussi",
+  "license": "MIT",
+  "homepage": "https://github.com/gmussi/sudokujs#readme",
+  "main": "src/index.js",
+  "scripts": {
+    "lint": "eslint --fix src/Sudoku.js test/Sudoku.test.js",
+    "test": "node --test test/index.test.js"
+  },
+  "devDependencies": {
+    "eslint": "^8.50.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmussi/sudokujs.git"
+  },
+  "keywords": [
+    "Sudoku",
+    "Javascript"
+  ],
+  "bugs": {
+    "url": "https://github.com/gmussi/sudokujs/issues"
+  }
+}
