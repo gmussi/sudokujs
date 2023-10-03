@@ -1,9 +1,9 @@
 {
-  "name": "sudokujs",
+  "name": "@gmussi/sudokujs",
   "type": "module",
   "version": "1.0.0",
   "description": "Sudoku as JS library to be imported in projects",
-  "author": "Guilherme Mussi",
+  "author": "@gmussi",
   "license": "MIT",
   "homepage": "https://github.com/gmussi/sudokujs#readme",
   "main": "src/index.js",
